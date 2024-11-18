@@ -150,6 +150,10 @@
 		width: 11vw;
 	}
 
+	#selectRoj, #datumInput {
+		cursor: pointer;
+	}
+
 	#EMSOInput, #naslovInput {
 		width: 15vw;
 	}
