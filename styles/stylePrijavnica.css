@@ -326,6 +326,10 @@
 		width: 11vw;
 	}
 
+	#selectRoj, #datumInput {
+		cursor: pointer;
+	}
+
 	#EMSOInput, #naslovInput {
 		width: 15vw;
 	}
@@ -496,6 +500,10 @@
 		width: 11vw;
 	}
 
+	#selectRoj, #datumInput {
+		cursor: pointer;
+	}
+
 	#EMSOInput, #naslovInput {
 		width: 15vw;
 	}
@@ -664,6 +672,10 @@
 
 	#imeInput, #priimekInput, #selectRoj, #datumInput, #krajInput, #inputKoda, #telInput, #mailInput, #radioInput {
 		width: 11vw;
+	}
+
+	#selectRoj, #datumInput {
+		cursor: pointer;
 	}
 
 	#EMSOInput, #naslovInput {
