@@ -31,3 +31,15 @@
         7. Uredi file tree, da je use povezano(index.html v root, pa preimenuj file v normalno npr. skripte v js, slike v img)
         8. Na koncu se uploadaj na github! 
         9. In na githubu dodaj en readMe! 
+
+
+# Slike zaslona
+      - html.index:
+      ![image](https://github.com/user-attachments/assets/324e895c-5dff-40e4-9121-7408bc879dad)
+
+      - forma.html:
+      ![image](https://github.com/user-attachments/assets/d9286d7e-1e54-4a1e-82fe-75ebf120ba23)
+
+      - signUp.html:
+      ![image](https://github.com/user-attachments/assets/4c830bf4-9a11-45fa-957b-e2574c3a2d52)
+
