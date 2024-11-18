@@ -76,6 +76,10 @@ h2{
 	font-weight: bold;
 }
 
+#datumInput::-webkit-calendar-picker-indicator {
+		cursor: pointer;
+}
+
 
 /*
 
@@ -347,6 +351,7 @@ h2{
 		display: block;
 		user-select: none;
 	}
+
 }
 	
 
