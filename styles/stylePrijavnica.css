@@ -60,7 +60,9 @@
 	font-weight: bold;
 }
 
-
+#datumInput::-webkit-calendar-picker-indicator {
+		cursor: pointer;
+}
 
 /*
 
@@ -150,7 +152,7 @@
 		width: 11vw;
 	}
 
-	#selectRoj, #datumInput {
+	#selectRoj{
 		cursor: pointer;
 	}
 
@@ -326,7 +328,7 @@
 		width: 11vw;
 	}
 
-	#selectRoj, #datumInput {
+	#selectRoj {
 		cursor: pointer;
 	}
 
@@ -500,7 +502,7 @@
 		width: 11vw;
 	}
 
-	#selectRoj, #datumInput {
+	#selectRoj {
 		cursor: pointer;
 	}
 
@@ -674,7 +676,7 @@
 		width: 11vw;
 	}
 
-	#selectRoj, #datumInput {
+	#selectRoj {
 		cursor: pointer;
 	}
 
