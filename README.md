@@ -32,19 +32,20 @@
         8. Na koncu še objavi na github! 
         9. In na githubu dodaj en "readMe"!
         10. V datoteki signUp.html sem dodal preverjanje, če email ni veljaven.
-        11. Spremenil že ustvarjen račun v email: ime.priimek@hotmail.com in geslo: Password123?
+        11. Spremenil že ustvarjen račun v email: "ime.priimek@hotmail.com" in geslo: "Password123?"
+        12. Popravil slike v "readMe" datoteki
 
 
 # Slike zaslona
       1 html.index:
-![Posnetek zaslona 2024-11-18 094838](https://github.com/user-attachments/assets/27b67beb-a179-49ef-863a-810279043452)
+![Posnetek zaslona 2024-11-18 094838](https://github.com/user-attachments/assets/20bf7324-61a6-4b37-ba91-e715571a783d)
 
       
       2 forma.html:
-![Posnetek zaslona 2024-11-18 094305](https://github.com/user-attachments/assets/3ecee56f-2e93-44d6-be98-31e6826734ab)
+![Posnetek zaslona 2024-11-18 094922](https://github.com/user-attachments/assets/8add99ef-0ece-48ab-82cb-7aa0e6a01634)
 
       
       3 signUp.html:
-![Posnetek zaslona 2024-11-18 094902](https://github.com/user-attachments/assets/b4d8c637-08d9-486f-b104-6143d1d8a470)
+![Posnetek zaslona 2024-11-18 094902](https://github.com/user-attachments/assets/52cd24c9-0b34-4f7b-8998-90f999358e5d)
 
 
