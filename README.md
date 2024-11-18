@@ -35,11 +35,8 @@
 
 # Slike zaslona
       - html.index:
-      ![image](https://github.com/user-attachments/assets/324e895c-5dff-40e4-9121-7408bc879dad)
 
       - forma.html:
-      ![image](https://github.com/user-attachments/assets/d9286d7e-1e54-4a1e-82fe-75ebf120ba23)
 
       - signUp.html:
-      ![image](https://github.com/user-attachments/assets/4c830bf4-9a11-45fa-957b-e2574c3a2d52)
 
