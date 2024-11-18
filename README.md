@@ -30,7 +30,9 @@
         6. Dodaj funkcionalnosti, več sweetalertov, daj skupne fonte, daj več javascripta v preverjanje polji itd.
         7. Uredi "file tree", da je use povezano(index.html v root, pa preimenuj file v normalna imena npr. skripte v js, slike v img, itd.)
         8. Na koncu še objavi na github! 
-        9. In na githubu dodaj en "readMe"! 
+        9. In na githubu dodaj en "readMe"!
+        10. V datoteki signUp.html sem dodal preverjanje, če email ni veljaven.
+        11. Spremenil že ustvarjen račun v email: ime.priimek@hotmail.com in geslo: Password123?
 
 
 # Slike zaslona
