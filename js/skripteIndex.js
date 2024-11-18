@@ -11,7 +11,7 @@ function preveriVnose(event) {
 
   const upoPodatki = {
     pravoGeslo: 'Password123?',
-    praviMail: 'Ime.priimek@hotmail.com'
+    praviMail: 'ime.priimek@hotmail.com'
   };
 
   const vnesenoGeslo = document.getElementById('passGeslo').value;
